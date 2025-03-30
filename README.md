@@ -1,2 +1,2 @@
-# Pinoyal
+# my-game-updates
 updates
